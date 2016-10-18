@@ -31,9 +31,13 @@ Navigate to the project from the directory it was cloned into:
 
 ### To Run
 
-Type:
+If you need a command line http server, to install http-server globally:
 
-`http-server` in terminal or interface of your choice.
+`npm install http-server -g`
+
+Then:
+
+`http-server` or `http-server -p XXXX` (the X's represent the port of your choice)
 
 You should now be able to open your browser and type `localhost:8080` to view the project.
 
