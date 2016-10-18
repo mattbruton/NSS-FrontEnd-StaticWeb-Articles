@@ -13,6 +13,8 @@ This is an introductory NSS Evening Cohort 3 exercise that focuses on semantic H
     - [Tools] (#tools)
     - [Specifications] (#specifications)
 
+==============================
+
 ## Viewing/Downloading Project
 
 ### To View Hosted Project
@@ -56,6 +58,8 @@ You should now be able to open your browser and type `localhost:8080` to view th
 
 ### Specifications
 
+==============================
+
 > This exercise requires you to have completed the HTML Blog Page exercise
 
 Copy and paste your blog article HTML into the `index.html` file for this exercise. For each article on your blog page, you need to have the following things to be unique.
@@ -67,3 +71,5 @@ Copy and paste your blog article HTML into the `index.html` file for this exerci
 1. A different line height.
 1. A different padding value.
 1. Each should have a border, but with rounded corners of different size (e.g. one article could have barely rounded borders, but the next one could be almost circular in shape)
+
+==============================
