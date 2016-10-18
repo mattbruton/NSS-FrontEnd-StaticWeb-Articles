@@ -21,11 +21,11 @@ This is an introductory NSS Evening Cohort 3 exercise that focuses on semantic H
 
 Clone the repository from GitHub:
 
-`git clone https://github.com/mattbruton/exercises_articles.git`
+`git clone https://github.com/mattbruton/NSS-FrontEnd-StaticWeb-Articles.git`
 
 Navigate to the project from the directory it was cloned into:
 
-`cd exercises_articles/`
+`cd NSS-FrontEnd-StaticWeb-Articles/`
 
 ## To Run
 
