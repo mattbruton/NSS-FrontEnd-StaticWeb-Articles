@@ -1,8 +1,6 @@
 # HTML Exercise - Articles
 
-This is an introductory NSS Evening Cohort 3 exercise that focuses on HTML semantics and includes a minimal amount of basic CSS.
-
-## Tech and Tools Involved
+This is an introductory NSS Evening Cohort 3 exercise that focuses on semantic HTML and includes a minimal amount of basic CSS.
 
 ### Languages
 
@@ -15,6 +13,10 @@ This is an introductory NSS Evening Cohort 3 exercise that focuses on HTML seman
 1. [Atom](https://atom.io/)
 1. [NPM http-server](https://www.npmjs.com/package/http-server)
 
+## To View
+
+[HTML Exercise - Articles](https://mb-nss-exercises.firebaseapp.com/articles/index.html)
+
 ## Installation
 
 Clone the repository from GitHub:
@@ -25,7 +27,7 @@ Navigate to the project from the directory it was cloned into:
 
 `cd exercises_articles/`
 
-## Running
+## To Run
 
 Type:
 
